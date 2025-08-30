@@ -1,6 +1,6 @@
-# 🎵 Music Downloader
+# Music Downloader
 
-## 📌 About
+## About
 This project is a **Python-based music downloader**.  
 It allows you to provide:
 1. A website URL that contains multiple `.mp3` files.  
@@ -8,7 +8,7 @@ It allows you to provide:
 
 The program will then scan the website, find all the available `.mp3` files, and download them into the selected folder.  
 
-### ✨ Features
+###  Features
 - Accepts a website URL containing `.mp3` files.
 - Lets you specify where to save the downloaded files.
 - Automatically downloads **all available `.mp3` files** from the site.
@@ -19,7 +19,7 @@ This project was created for **educational purposes** but can also be used for *
 
 ---
 
-## 📦 Requirements
+##  Requirements
 - Python **3.7+**
 - Libraries:
   - `requests` – for making HTTP requests
